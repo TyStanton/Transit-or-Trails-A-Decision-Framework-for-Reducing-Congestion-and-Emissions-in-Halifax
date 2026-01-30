@@ -18,7 +18,7 @@ This project frames the decision as a system dynamics problem rather than a narr
 - **Reinforcing Loop (R2 – Active Transportation Adoption Loop):** Expanded active transportation infrastructure improves perceived safety and accessibility, increasing walking and cycling rates and generating demand for additional infrastructure.
 - **Balancing Loop (B1 – Congestion Pressure / Induced Demand Loop):** Reduced car usage lowers congestion, but improved traffic conditions can induce additional driving, partially offsetting congestion reductions.
 
-## Data Pool Selection (for Registration)
+## Data Pool Selection
 **Primary pool:** Climate & Energy  
 **Secondary pool:** Housing & Demographics
 
