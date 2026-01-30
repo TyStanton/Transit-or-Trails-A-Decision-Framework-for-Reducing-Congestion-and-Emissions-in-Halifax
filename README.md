@@ -11,7 +11,7 @@ The transportation planning director faces a strategic allocation decision under
 This project frames the decision as a system dynamics problem rather than a narrow infrastructure comparison. Transportation outcomes emerge from interconnected feedback loops involving congestion, mode choice, emissions, land use, and public support. By integrating background research, exploratory data analysis, and causal loop modeling, this project seeks to identify which investment pathway offers the greatest leverage for achieving HRM’s congestion and emissions reduction objectives by 2030, while acknowledging uncertainty and tradeoffs inherent in urban transportation systems.
 
 ## Initial Causal Loop Diagram (Draft)
-![Draft Causal Loop Diagram](img:cld-draft.png)
+![Draft Causal Loop Diagram](img/cld-draft.png)
 
 ### Key Feedback Loops (Draft)
 - **Reinforcing Loop (R1 – Transit Quality Loop):** Increased transit investment improves service quality, which raises ridership. Higher ridership increases political and financial support for transit, enabling further investment.
