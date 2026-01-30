@@ -1,4 +1,4 @@
-# Transit-or-Trails-A-Decision-Framework-for-Reducing-Congestion-and-Emissions-in-Halifax
+# Transit or Trails? A Decision Framework for Reducing Congestion and Emissions in Halifax
 
 Decision Statement:
 
