@@ -22,10 +22,26 @@ There are also system effects and unintended consequences. Transit improvements 
 HRM has pursued a mixed approach, making incremental improvements to transit while expanding active transportation infrastructure in select areas. However, the limited availability of capital funding, operating budgets, and street space constrains HRM’s ability to scale both strategies simultaneously. This project therefore focuses on identifying which investment priority is likely to deliver the greatest improvement in congestion and emissions outcomes by 2030 under realistic constraints.
 
 ## Planned datasets (Milestone 2 preview)
-- Statistics Canada census commuting and mode-share data (time trends and neighborhood patterns)
-- Nova Scotia / municipal open data related to transportation, traffic, or infrastructure (where available)
-- Environment and Climate Change Canada emissions inventories (transport sector context)
-- HRM planning or transportation reports providing context for current policies and targets
+
+- **Statistics Canada – Mode of Transportation to Work (Census Table 98-10-0459-01)**  
+  Provides data on commuting mode share (private vehicle, public transit, cycling, walking) by geography and over time. This dataset will be used to analyze travel behavior and potential mode shift relevant to congestion and emissions outcomes.  
+  https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810045901
+
+- **Statistics Canada – Average Commuting Duration by Mode (Census Table 98-10-0275-01)**  
+  Provides data on average commute times by transportation mode and region. This dataset will support analysis of congestion impacts and time-cost implications of transportation investment choices.  
+  https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810027501
+
+- **Environment and Climate Change Canada – Greenhouse Gas Emissions by Economic Sector**  
+  Provides annual greenhouse gas emissions data for the transportation sector at the national and provincial level. This dataset will be used to contextualize transportation-related emissions trends.  
+  https://open.canada.ca/data/en/dataset/779c1f29-1e3f-4eec-8c82-7b4d7f4d1a0a
+
+- **Halifax Regional Municipality – Open Data Portal (Transportation and Mobility Datasets)**  
+  Provides municipal-level datasets related to transportation infrastructure, planning indicators, and mobility context. These datasets will support interpretation of local constraints and policy objectives.  
+  https://www.halifax.ca/home/open-data
+
+- **Canadian Urban Transit Association (CUTA) – Transit Ridership and Performance Indicators**  
+  Provides transit ridership and performance statistics for Canadian cities. This dataset will support comparative analysis of transit usage trends and system performance.  
+  https://cutaactu.ca/resources/data/
 
 ## References (APA)
 
