@@ -28,8 +28,13 @@ HRM has pursued a mixed approach, making incremental improvements to transit whi
 - HRM planning or transportation reports providing context for current policies and targets
 
 ## References (APA)
-Environment and Climate Change Canada. (2023). *National inventory report 1990–2021: Greenhouse gas sources and sinks in Canada*. Government of Canada.
 
-Halifax Regional Municipality. (n.d.). *Integrated Mobility Plan / transportation planning documents*.
+Environment and Climate Change Canada. (2023). *National inventory report 1990–2021: Greenhouse gas sources and sinks in Canada*. Government of Canada.  
+https://www.canada.ca/en/environment-climate-change/services/climate-change/greenhouse-gas-emissions/inventory.html
 
-Statistics Canada. (2021). *Census of Population: Commuting to work and mode of transportation*. Government of Canada.
+Halifax Regional Municipality. (2022). *Integrated mobility plan*. Halifax Regional Municipality.  
+https://www.halifax.ca/transportation/transportation-projects/integrated-mobility-plan
+
+Statistics Canada. (2021). *Commuting to work: Mode of transportation (Census of Population)*. Government of Canada.  
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810045901
+
