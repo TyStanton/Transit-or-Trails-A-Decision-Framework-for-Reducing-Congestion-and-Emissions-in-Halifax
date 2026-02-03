@@ -31,9 +31,9 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810045901
 Provides data on average commute times by transportation mode and region. This dataset will support analysis of congestion impacts and time-cost implications of transportation investment choices.  
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810027501
 
-**Environment and Climate Change Canada – Greenhouse Gas Emissions by Economic Sector**  
-Provides annual greenhouse gas emissions data for the transportation sector at the national and provincial level. This dataset will be used to contextualize transportation-related emissions trends.  
-https://open.canada.ca/data/en/dataset/779c1f29-1e3f-4eec-8c82-7b4d7f4d1a0a
+**Environment and Climate Change Canada – Official Greenhouse Gas Inventory Data**  
+Provides Canada’s official greenhouse gas emissions data by sector and time period, including transportation-related emissions estimates. This dataset will support analysis of trends and sector contributions to overall emissions.  
+https://data-donnees.az.ec.gc.ca/data/substances/monitor/canada-s-official-greenhouse-gas-inventory/
 
 **Halifax Regional Municipality – Open Data Portal (Transportation and Mobility Datasets)**  
 Provides municipal-level datasets related to transportation infrastructure, planning indicators, and mobility context. These datasets will support interpretation of local constraints and policy objectives.  
