@@ -44,8 +44,8 @@ https://www.halifax.ca/home/open-data
 Environment and Climate Change Canada. (2023). *National inventory report 1990–2021: Greenhouse gas sources and sinks in Canada*. Government of Canada.  
 https://www.canada.ca/en/environment-climate-change/services/climate-change/greenhouse-gas-emissions/inventory.html
 
-Halifax Regional Municipality. (2022). *Integrated mobility plan*. Halifax Regional Municipality.  
-https://www.halifax.ca/transportation/transportation-projects/integrated-mobility-plan
+Halifax Regional Municipality. (2022). *Integrated transportation planning and projects*. Halifax Regional Municipality.  
+https://www.halifax.ca/transportation/transportation-projects
 
 Statistics Canada. (2021). *Commuting to work: Mode of transportation (Census of Population)*. Government of Canada.  
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810045901
