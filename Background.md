@@ -39,10 +39,6 @@ HRM has pursued a mixed approach, making incremental improvements to transit whi
   Provides municipal-level datasets related to transportation infrastructure, planning indicators, and mobility context. These datasets will support interpretation of local constraints and policy objectives.  
   https://www.halifax.ca/home/open-data
 
-- **Canadian Urban Transit Association (CUTA) – Transit Ridership and Performance Indicators**  
-  Provides transit ridership and performance statistics for Canadian cities. This dataset will support comparative analysis of transit usage trends and system performance.  
-  https://cutaactu.ca/resources/data/
-
 ## References (APA)
 
 Environment and Climate Change Canada. (2023). *National inventory report 1990–2021: Greenhouse gas sources and sinks in Canada*. Government of Canada.  
