@@ -23,21 +23,21 @@ HRM has pursued a mixed approach, making incremental improvements to transit whi
 
 ## Planned datasets (Milestone 2 preview)
 
-- **Statistics Canada – Mode of Transportation to Work (Census Table 98-10-0459-01)**  
-  Provides data on commuting mode share (private vehicle, public transit, cycling, walking) by geography and over time. This dataset will be used to analyze travel behavior and potential mode shift relevant to congestion and emissions outcomes.  
-  https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810045901
+**Statistics Canada – Mode of Transportation to Work (Census Table 98-10-0459-01)**  
+Provides data on commuting mode share (private vehicle, public transit, cycling, walking) by geography and over time. This dataset will be used to analyze travel behavior and potential mode shift relevant to congestion and emissions outcomes.  
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810045901
 
-- **Statistics Canada – Average Commuting Duration by Mode (Census Table 98-10-0275-01)**  
-  Provides data on average commute times by transportation mode and region. This dataset will support analysis of congestion impacts and time-cost implications of transportation investment choices.  
-  https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810027501
+**Statistics Canada – Average Commuting Duration by Mode (Census Table 98-10-0275-01)**  
+Provides data on average commute times by transportation mode and region. This dataset will support analysis of congestion impacts and time-cost implications of transportation investment choices.  
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810027501
 
-- **Environment and Climate Change Canada – Greenhouse Gas Emissions by Economic Sector**  
-  Provides annual greenhouse gas emissions data for the transportation sector at the national and provincial level. This dataset will be used to contextualize transportation-related emissions trends.  
-  https://open.canada.ca/data/en/dataset/779c1f29-1e3f-4eec-8c82-7b4d7f4d1a0a
+**Environment and Climate Change Canada – Greenhouse Gas Emissions by Economic Sector**  
+Provides annual greenhouse gas emissions data for the transportation sector at the national and provincial level. This dataset will be used to contextualize transportation-related emissions trends.  
+https://open.canada.ca/data/en/dataset/779c1f29-1e3f-4eec-8c82-7b4d7f4d1a0a
 
-- **Halifax Regional Municipality – Open Data Portal (Transportation and Mobility Datasets)**  
-  Provides municipal-level datasets related to transportation infrastructure, planning indicators, and mobility context. These datasets will support interpretation of local constraints and policy objectives.  
-  https://www.halifax.ca/home/open-data
+**Halifax Regional Municipality – Open Data Portal (Transportation and Mobility Datasets)**  
+Provides municipal-level datasets related to transportation infrastructure, planning indicators, and mobility context. These datasets will support interpretation of local constraints and policy objectives.  
+https://www.halifax.ca/home/open-data
 
 ## References (APA)
 
