@@ -4,6 +4,12 @@
 
 Should the Halifax Regional Municipality (HRM) transportation planning director prioritize investment in public transit expansion or active transportation infrastructure (bike lanes and pedestrian networks) to reduce urban congestion and greenhouse gas emissions by 2030, given budgetary and land-use constraints?
 
+## Primary Objective (KPI)
+
+The primary objective of this analysis is to evaluate which investment pathway - public transit expansion or active transportation infrastructure — is more likely to reduce **private vehicle commuting mode share** in Halifax by 2030.
+
+Private vehicle mode share is defined as the percentage of commuters who travel to work using a private automobile (driver or passenger).
+
 ## Executive Summary
 
 Halifax Regional Municipality is experiencing sustained population growth alongside increasing pressure on its transportation system. Rising congestion, longer commute times, and transportation-related greenhouse gas emissions pose significant challenges to economic productivity, environmental sustainability, and quality of life. As HRM works toward climate targets and long-term urban development goals, transportation investment decisions have become increasingly consequential.
