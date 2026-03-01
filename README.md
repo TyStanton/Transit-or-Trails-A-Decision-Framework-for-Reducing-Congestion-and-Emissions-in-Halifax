@@ -29,3 +29,39 @@ This project frames the decision as a system dynamics problem rather than a narr
 - **Reinforcing Loop (R1 – Transit Quality Loop):** Increased transit investment improves service quality, which raises ridership. Higher ridership increases political and financial support for transit, enabling further investment.
 - **Reinforcing Loop (R2 – Active Transportation Adoption Loop):** Expanded active transportation infrastructure improves perceived safety and accessibility, increasing walking and cycling rates and generating demand for additional infrastructure.
 - **Balancing Loop (B1 – Congestion Pressure / Induced Demand Loop):** Reduced car usage lowers congestion, but improved traffic conditions can induce additional driving, partially offsetting congestion reductions.
+
+## Exploratory Visualizations
+
+### Figure 1: Traffic Volume Trend Over Time
+
+![Viz 1](img/viz1.png)
+
+**Interpretation:**  
+Figure 1 shows the trend in Annual Average Daily Traffic (AADT) across Halifax-area highway segments. The observed pattern indicates sustained vehicle reliance, reinforcing the system’s dependence on private automobile use. Increasing traffic volumes strengthen congestion pressure and support the reinforcing loop identified in the causal model.
+
+---
+
+### Figure 2: Concentration of Traffic Volume by Highway Segment
+
+![Viz 2](img/viz2.png)
+
+**Interpretation:**  
+Figure 2 highlights the highway corridors with the highest traffic volumes. Traffic concentration across specific segments suggests that congestion pressure is spatially clustered. This supports the causal link between infrastructure capacity and vehicle flow intensity.
+
+---
+
+### Figure 3: Distribution of AADT Across Provincial Highway Segments
+
+![Viz 3](img/viz3.png)
+
+**Interpretation:**  
+Figure 3 illustrates the distribution of AADT values across highway segments. The distribution indicates that while many segments carry moderate traffic, a smaller subset carries disproportionately high volumes. This imbalance supports the system dynamics framing of concentrated congestion pressure.
+
+---
+
+### Figure 4: Variation in Traffic Volume Across Highway Segments
+
+![Viz 4](img/viz4.png)
+
+**Interpretation:**  
+Figure 4 explores variation in traffic volume across segments (or over time, depending on your scatterplot). The observed relationship suggests that certain structural or temporal factors influence traffic intensity, reinforcing feedback mechanisms in the refined causal loop diagram.
