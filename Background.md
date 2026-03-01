@@ -21,23 +21,20 @@ There are also system effects and unintended consequences. Transit improvements 
 ## Current approach / what has been tried
 HRM has pursued a mixed approach, making incremental improvements to transit while expanding active transportation infrastructure in select areas. However, the limited availability of capital funding, operating budgets, and street space constrains HRM’s ability to scale both strategies simultaneously. This project therefore focuses on identifying which investment priority is likely to deliver the greatest improvement in congestion and emissions outcomes by 2030 under realistic constraints.
 
-## Planned datasets (Milestone 2 preview)
+## Planned Datasets (Milestone 2)
 
-**Statistics Canada – Mode of Transportation to Work (Census Table 98-10-0459-01)**  
-Provides data on commuting mode share (private vehicle, public transit, cycling, walking) by geography and over time. This dataset will be used to analyze travel behavior and potential mode shift relevant to congestion and emissions outcomes.  
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810045901
+The following datasets were selected to support quantitative analysis of traffic volume and congestion pressure in Halifax:
 
-**Statistics Canada – Average Commuting Duration by Mode (Census Table 98-10-0275-01)**  
-Provides data on average commute times by transportation mode and region. This dataset will support analysis of congestion impacts and time-cost implications of transportation investment choices.  
-https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810027501
+1. **Nova Scotia Provincial Highway Traffic Volumes**
+   - Source: https://data.novascotia.ca/Roads-Driving-and-Transport/Traffic-Volumes-Provincial-Highway-System/8524-ec3n/about_data
+   - Description: Annual Average Daily Traffic (AADT) counts for provincial highway segments across Nova Scotia.
+   - Use in Analysis: AADT values are used as the primary KPI proxy for traffic intensity and congestion pressure.
 
-**Environment and Climate Change Canada – Official Greenhouse Gas Inventory Data**  
-Provides Canada’s official greenhouse gas emissions data by sector and time period, including transportation-related emissions estimates. This dataset will support analysis of trends and sector contributions to overall emissions.  
-https://data-donnees.az.ec.gc.ca/data/substances/monitor/canada-s-official-greenhouse-gas-inventory/
-
-**Halifax Regional Municipality – Open Data Portal (Transportation and Mobility Datasets)**  
-Provides municipal-level datasets related to transportation infrastructure, planning indicators, and mobility context. These datasets will support interpretation of local constraints and policy objectives.  
-https://www.halifax.ca/home/open-data
+2. **Halifax Regional Municipality (HRM) Open Data – Traffic Studies Dataset**
+   - Source Portal: https://data-hrm.hub.arcgis.com/datasets/open-data-catalogue-1/explore
+   - Download Portal: https://data-hrm.hub.arcgis.com/pages/open-data-downloads
+   - Description: Municipal traffic study data providing localized traffic counts and monitoring information.
+   - Use in Analysis: Supports local validation of traffic concentration patterns and provides context for municipal-level infrastructure dynamics.
 
 ## References (APA)
 
