@@ -6,9 +6,9 @@ Should the Halifax Regional Municipality (HRM) transportation planning director 
 
 ## Primary Objective (KPI)
 
-The primary objective of this analysis is to evaluate which investment pathway - public transit expansion or active transportation infrastructure — is more likely to reduce **private vehicle commuting mode share** in Halifax by 2030.
+The primary objective of this analysis is to evaluate which investment pathway — public transit expansion or active transportation infrastructure — is more likely to reduce traffic volumes and congestion pressure within Halifax by 2030.
 
-Private vehicle mode share is defined as the percentage of commuters who travel to work using a private automobile (driver or passenger).
+Traffic volume (vehicle counts) is used as a measurable proxy for private vehicle dependence and congestion intensity.
 
 ## Executive Summary
 
