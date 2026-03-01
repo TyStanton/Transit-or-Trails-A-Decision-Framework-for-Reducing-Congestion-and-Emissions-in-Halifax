@@ -8,7 +8,7 @@ Should the Halifax Regional Municipality (HRM) transportation planning director 
 
 The primary objective of this analysis is to evaluate which investment pathway — public transit expansion or active transportation infrastructure — is more likely to reduce traffic volumes and congestion pressure within Halifax by 2030.
 
-Traffic volume (vehicle counts) is used as a measurable proxy for private vehicle dependence and congestion intensity.
+Traffic volume (AADT) is used as a measurable proxy for congestion pressure and private vehicle dependence within the Halifax transportation network.
 
 ## Executive Summary
 
