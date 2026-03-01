@@ -30,6 +30,14 @@ This project frames the decision as a system dynamics problem rather than a narr
 - **Reinforcing Loop (R2 – Active Transportation Adoption Loop):** Expanded active transportation infrastructure improves perceived safety and accessibility, increasing walking and cycling rates and generating demand for additional infrastructure.
 - **Balancing Loop (B1 – Congestion Pressure / Induced Demand Loop):** Reduced car usage lowers congestion, but improved traffic conditions can induce additional driving, partially offsetting congestion reductions.
 
+## Evidence Supporting Key Causal Links
+
+1. The increasing or sustained AADT trend (Figure 1) supports the positive relationship between private vehicle use and traffic volume.
+
+2. The concentration of traffic in specific corridors (Figure 2) supports the link between infrastructure capacity and congestion pressure.
+
+3. The distribution and variation in traffic intensity (Figures 3 and 4) reinforce the reinforcing feedback loop between vehicle dependence and road utilization.
+
 ## Exploratory Visualizations
 
 ### Figure 1: Traffic Volume Trend Over Time
