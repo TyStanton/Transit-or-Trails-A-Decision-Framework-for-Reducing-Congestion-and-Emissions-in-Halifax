@@ -101,6 +101,12 @@ Evidence from Milestone 2 supports this structure:
 
 This reflects a system approaching capacity limits without sufficient structural intervention.
 
+## System Archetype Diagram
+
+![Growth and Underinvestment Archetype](img/archetype-diagram.png)
+
+This diagram illustrates the “Growth and Underinvestment” archetype as applied to Halifax’s transportation system. Increasing traffic demand places pressure on infrastructure capacity, while delayed investment in alternative transportation limits the system’s ability to adapt.
+
 ---
 
 ## Scenario Narratives
