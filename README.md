@@ -97,6 +97,7 @@ Evidence from Milestone 2 supports this structure:
 - Traffic volume trends (Figure 1) show sustained or increasing AADT
 - High-volume corridors (Figure 2) indicate concentrated congestion pressure
 - Distribution patterns (Figure 3) show imbalance across the system
+- Variation across segments (Figure 4) highlights differences in traffic demand
 
 This reflects a system approaching capacity limits without sufficient structural intervention.
 
