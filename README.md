@@ -186,4 +186,76 @@ Key uncertainties remain around adoption rates, funding constraints, and impleme
 
 This analysis suggests that prioritizing transit investment, supported by complementary active transportation strategies, offers the strongest pathway for improving system performance.
 
-This will inform the final recommendation in Milestone 4.
+---
+
+# Milestone 4: Final Decision & Recommendations
+
+## Final Recommendation
+
+Based on the combined analysis from Milestones 1–3, it is recommended that:
+
+> **Halifax Regional Municipality prioritize public transit expansion as the primary strategy to reduce traffic volumes (AADT) and congestion pressure, while supporting active transportation as a complementary investment.**
+
+---
+
+## Justification
+
+This recommendation is supported by three key findings:
+
+1. **Concentration of Traffic Demand**  
+   Exploratory analysis shows that traffic volume is concentrated in a small number of high-demand corridors. Reducing congestion in these areas requires an intervention that can influence large-scale commuting behavior.
+
+2. **System-Level Impact of Transit**  
+   Public transit has the ability to shift longer-distance trips away from private vehicles, making it more effective at reducing overall traffic volume compared to active transportation alone.
+
+3. **Leverage Point Alignment**  
+   The system analysis identified reducing private vehicle dependence as the most effective leverage point. Transit investment directly targets this by providing a viable alternative to car use.
+
+---
+
+## Implementation Considerations
+
+To successfully apply this recommendation, decision-makers should:
+
+- Prioritize transit improvements in high-volume corridors  
+- Increase service frequency and accessibility  
+- Align active transportation investments with first-mile and last-mile connections  
+- Ensure investments are phased to match population growth and demand  
+
+---
+
+## Key Uncertainties
+
+Several uncertainties may affect outcomes:
+
+- Transit adoption rates may vary depending on service quality and coverage  
+- Infrastructure funding constraints may limit the speed of implementation  
+- Travel behavior may not shift as quickly as expected  
+
+Despite these uncertainties, the overall direction of impact remains consistent across scenarios.
+
+---
+
+## Limitations
+
+This analysis has several limitations:
+
+- AADT is used as a proxy for congestion and does not directly measure travel time or delay  
+- Available data focuses on traffic volume rather than detailed travel behavior  
+- The system analysis is conceptual and does not quantify exact future outcomes  
+
+---
+
+## Future Work
+
+Future analysis could improve this project by:
+
+- Incorporating transit ridership and commute time data  
+- Conducting corridor-level analysis of congestion and modal shifts  
+- Evaluating hybrid investment strategies in greater detail  
+
+---
+
+## Conclusion
+
+Reducing congestion in Halifax requires addressing the underlying structure of private vehicle dependence. While both transit and active transportation provide benefits, public transit investment offers the strongest system-wide impact. Supporting this with targeted active transportation infrastructure provides a balanced and effective long-term strategy.
