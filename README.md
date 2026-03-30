@@ -2,7 +2,7 @@
 
 ## Decision Statement
 
-Should the Halifax Regional Municipality (HRM) transportation planning director prioritize investment in public transit expansion or active transportation infrastructure (bike lanes and pedestrian networks) to reduce urban congestion and greenhouse gas emissions by 2030, given budgetary and land-use constraints?
+Should the Halifax Regional Municipality (HRM) transportation planning director prioritize investment in public transit expansion or active transportation infrastructure to reduce traffic volumes and congestion pressure by 2030?
 
 ## Primary Objective (KPI)
 
